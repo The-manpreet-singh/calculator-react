@@ -1,0 +1,24 @@
+.btn-wrapper {
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    background-color: #FFF;
+    color: #293944;
+    flex: 1;
+    outline: 1px solid #293944;
+}
+
+.btn-wrapper:active:hover {
+    background-color: #EEE;
+}
+
+.operator {
+    background-color:#FF8C00;
+    color: #293944;
+}
+
+.operator:active:hover {
+    background-color: #D3815B;
+}
